@@ -5,3 +5,6 @@ Are you still worried about what you forgot to do?Are you still worrying about n
 -Stopwatch function, record seconds
 -Timer, countdown tool
 
+ ![image](https://github.com/neozzx/AGPlatformClock/raw/master/AGPlatformClock/AGPlatformClock/1.png)
+ ![image](https://github.com/neozzx/AGPlatformClock/raw/master/AGPlatformClock/AGPlatformClock/2.png)
+ ![image](https://github.com/neozzx/AGPlatformClock/raw/master/AGPlatformClock/AGPlatformClock/3.png)
